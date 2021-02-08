@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# MZY7电子科技
+我们是一个主力消费类电子产品和创意硬件产品研发的工作室。
 
-You can use the [editor on GitHub](https://github.com/rinscr3003/MZY7ELEC-Site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 最新消息
+- nothing.
+- [More…](news/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rinscr3003/MZY7ELEC-Site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 产品目录
+- **电源类**
+  - [PCE1000 双向快充移动电源65W](products/pce1000)
+  - [RPiPowerMini-V2 适用于树莓派Zero系列的外挂移动电源板（第二代）](products/rpipowermini-v2)
+  - [AnyCharge 多协议现代手机快充板](products/anycharge)
+- **智能家居类**
+  - [MBRP-Station  MBRP通信网关](products/mbrp-station)
+  - [MBRP-THMeter MBRP室内温湿度计](products/mbrp-thmeter)
+  - [MBRP-Moisture MBRP土壤湿度传感器](products/mbrp-moisture)
+  - [MBRP-Weather MBRP气象站](products/mbrp-weather)
+  - [WeatherStation 窗边气象站](products/weatherstation)
+- **灯类**
+  - [LEDCard LED电子灯卡4W](products/ledcard)
+  
+## 联系我们
+E-Mail：rinscr3003@mzy7.cn
