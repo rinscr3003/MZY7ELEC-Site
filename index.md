@@ -18,7 +18,6 @@
 - **智能家居类**
   - [MBRP-Station  MBRP通信网关](products/mbrp-station)
   - [MBRP-THMeter MBRP室内温湿度计](products/mbrp-thmeter)
-  - [MBRP-Moisture MBRP土壤湿度传感器](products/mbrp-moisture)
   - [MBRP-Weather MBRP气象站](products/mbrp-weather)
   - [WeatherStation 窗边气象站](products/weatherstation)
   - [MiniPumpStation 智能园艺泵站](products/minipumpstation)
